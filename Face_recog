@@ -7,7 +7,7 @@
 # #check the data formation
 # str(d.train);
 # 
-# #chech the head
+# #check the head
 # head(d.train);
 # 
 # 
